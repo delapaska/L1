@@ -3,13 +3,7 @@
 
 **Структура проекта:**
 
-Avito-tech/
-  cmd/main.go
-  config/conf.yaml
-  db/segments/segments.go
-  db/db_connection.go
-  handlers/handlers.go
-  internal/config/config.go
+
 * cmd/main.go: 
  - Основной файл программы, содержит точку входа для запуска веб-сервера.
 * config/conf.yaml: 
